@@ -1,0 +1,6 @@
+{
+  "name": "Harborlux — Claim Your Summit",
+  "description": "Harborlux: harbour-view penthouses above a city that never sleeps. Claim your summit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
